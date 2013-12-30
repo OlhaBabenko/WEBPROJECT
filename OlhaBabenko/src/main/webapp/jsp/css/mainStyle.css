@@ -1,0 +1,43 @@
+/* 
+    Document   : style
+    Created on : 28.05.2013, 16:38:14
+    Author     : Оля
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body {
+    background: #fdfcf9;
+    font-family: Arial;
+    font-size: smaller;
+    padding-left: 1%;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 6px;
+    font-size: 2.3em;
+    font-style: oblique;
+    width: 100%;
+}
+
+input{
+    background: #fffffc;
+}
+
+a:link {
+    color: #be7429;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a:link:hover {
+    color: #be7429;
+    font-weight: normal;
+    text-decoration: underline;
+}
+

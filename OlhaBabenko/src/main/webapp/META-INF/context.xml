@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/WebProjectTest">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="20" maxIdle="3" name="jdbc/myproject" password="root" type="javax.sql.DataSource" url="jdbc:mysql://localhost:3306/myproject" username="root"/>
+</Context>

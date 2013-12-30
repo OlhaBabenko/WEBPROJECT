@@ -1,0 +1,40 @@
+/* 
+    Document   : bidsDoingStyle
+    Created on : 05.06.2013, 17:23:09
+    Author     : Оля
+    Description:
+        Purpose of the stylesheet follows.
+*/
+table {
+    padding-left: 29%;
+    padding-right: 30%;
+    width: 100%;
+    border: 0;
+}
+
+td {
+    font-size: small;
+    font-style: oblique;
+    text-align: right;
+    height: 40px;
+}
+
+#tdR{
+   text-align: left; 
+}
+
+p{
+    color : red;
+}
+
+select{
+    background: #fffffc;
+    width: 300px;
+}
+
+textarea{
+    background: #fffffc;
+    width: 300px;
+}
+
+

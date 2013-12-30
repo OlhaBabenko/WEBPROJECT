@@ -1,0 +1,21 @@
+/* 
+    Document   : usersBids
+    Created on : 12.06.2013, 19:34:37
+    Author     : Оля
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+table {
+    padding-left: 15%;
+    padding-right: 10%;
+    width: 100%;
+    border: 0;
+   /*background-color: gainsboro;*/
+}
+
+td {
+    font-size: small;
+    font-style: oblique;
+    text-align: right;
+}

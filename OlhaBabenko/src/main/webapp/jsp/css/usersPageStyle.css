@@ -1,0 +1,32 @@
+/* 
+    Document   : usersPageStyle
+    Created on : 06.06.2013, 20:51:10
+    Author     : Оля
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+table {
+    padding-left: 32%;
+    padding-right: 33%;
+    width: 100%;
+    border: 0;
+    /*background-color: gainsboro;*/
+}
+
+td {
+    font-size: small;
+    font-style: oblique;
+    text-align: right;
+}
+
+div{
+    text-align: center;
+    font-size: 16px;
+    font-style: oblique;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+
+

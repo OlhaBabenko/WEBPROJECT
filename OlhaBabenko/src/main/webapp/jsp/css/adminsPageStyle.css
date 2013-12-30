@@ -1,0 +1,29 @@
+/* 
+    Document   : adminsPageStyle
+    Created on : 12.06.2013, 21:00:43
+    Author     : Оля
+    Description:
+        Purpose of the stylesheet follows.
+*/
+table {
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 100%;
+    border: 0;
+    /*background-color: gainsboro;*/
+}
+
+td {
+    font-size: small;
+    font-style: oblique;
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    font-size: 16px;
+    font-style: oblique;
+    font-family: Arial;
+    font-weight: bold;
+}
+

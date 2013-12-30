@@ -1,0 +1,22 @@
+/* 
+    Document   : style
+    Created on : 28.05.2013, 16:38:14
+    Author     : Оля
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+table {
+    width: 18%;
+    border: 0;
+}
+
+td {
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+}
+
+p{
+    color : red;
+}
